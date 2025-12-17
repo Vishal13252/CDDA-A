@@ -1,1 +1,2 @@
 Hello CDDA-A
+Hello, it's my first experiment in this class
